@@ -1,4 +1,5 @@
 
 
 
-print("buoi 1")
+print(" buoi 1 ")
+print("BKHN")
