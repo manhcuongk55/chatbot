@@ -1,4 +1,4 @@
-
+print("tuan dep trai")
 
 
 print(" buoi 1 ")
